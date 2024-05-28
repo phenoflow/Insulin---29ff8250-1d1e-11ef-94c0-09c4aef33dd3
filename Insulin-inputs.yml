@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/insulin-500unit---primary.py
+inputModule3:
+  class: File
+  path: python/insulin-mixtard---primary.py
+inputModule4:
+  class: File
+  path: python/insulin-penfill---primary.py
+inputModule5:
+  class: File
+  path: python/insulin-initard---primary.py
+inputModule6:
+  class: File
+  path: python/insulin-humulin---primary.py
+inputModule7:
+  class: File
+  path: python/insulin-flexpen---primary.py
+inputModule8:
+  class: File
+  path: python/insulin-lente---primary.py
+inputModule9:
+  class: File
+  path: python/biphasic-insulin---primary.py
+inputModule10:
+  class: File
+  path: python/insulin-velosulin---primary.py
+inputModule11:
+  class: File
+  path: python/insulin-actraphane---primary.py
+inputModule12:
+  class: File
+  path: python/insulin-protaphane---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
